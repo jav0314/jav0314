@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **new frameworks and libraries**
 
 - 💬 Ask me about **MVC projects and SQL**
+  
+- 📫 How to reach me **javmeridadev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
