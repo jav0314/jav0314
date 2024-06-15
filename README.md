@@ -2,7 +2,7 @@
 <img src="https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg">
 <h3 align="center">I'm a passionate software developer with a deep interest in creating new systems to address needs.</h3>
 
-- 🔭 I’m currently working on **my own Angular Project**
+- 🔭 I’m currently working on **my own Full-Stack Project**
 
 - 🌱 I’m currently learning **new frameworks and libraries**
 
